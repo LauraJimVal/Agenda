@@ -36,12 +36,17 @@ tr, td {
 
 input {
   background: #212026;
+  color: white;
   padding: 10px;
   border: 1px solid grey;
 	border-radius: 3px;
 	margin-bottom: 10px;
 	width: 100%;
 	font-size: 13px;
+}
+
+.container2{
+  padding: 20px;
 }
 
 @media only screen and (min-width: 768px) {
